@@ -1,5 +1,4 @@
 def date_fashion(you, date):
-
     """
     You and your date are trying to get a table 
     at a restaurant. The parameter "you" is the 
