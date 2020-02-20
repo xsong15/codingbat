@@ -9,7 +9,7 @@ def lone_sum(a, b, c):
     for x in l:
         if l.count(x) == 1:
             result += x
-    return result
+    return result2
 
 print(lone_sum(1, 2, 3))
 print(lone_sum(3, 2, 3))
